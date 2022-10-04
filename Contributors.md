@@ -2014,6 +2014,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Prasetyo Yudho](https://github.com/prasetyoyudo)
 - [Ikrom Syadzali](https://github.com/ikromxyz)
 - [Phong Pham](https://github.com/phongpv)
-
+- [Sahil Thakur](https://github.com/Blacklight34)
 
 <!-- prettier-ignore-end -->
